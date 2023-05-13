@@ -1,8 +1,3 @@
-<img src="jaal/assest/logo.png" alt="jaal logo"/>
-
-![PyPI](https://img.shields.io/pypi/v/jaal) [![PyPI dm](https://img.shields.io/pypi/dm/jaal.svg)](https://img.shields.io/pypi/jaal) [![Join the chat at https://gitter.im/imm-jaal/community](https://badges.gitter.im/imm-jaal/community.svg)](https://gitter.im/imm-jaal/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) ![GitHub](https://img.shields.io/github/license/imohitmayank/jaal) ![GitHub Repo stars](https://img.shields.io/github/stars/imohitmayank/jaal?style=social)
-
-*Your interactive network visualizing dashboard*
 
 Documentation: [Here](http://mohitmayank.com/jaal/)
 
